@@ -3,8 +3,7 @@
 🚦 Smart Traffic Management Simulation
 ----
 <img width="452" height="338" alt="image" src="https://github.com/user-attachments/assets/19268de8-a378-4c38-8fa1-5761cf5db294" />
-----
-🚦 **AI Learning Journey | Project 01: Smart Traffic Management Simulation**
+
 
 Today, I completed my first practical AI project: a **Smart Traffic Management Simulation** using Python and Pygame.
 
