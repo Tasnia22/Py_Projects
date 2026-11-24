@@ -230,8 +230,3 @@ Through this project, I learned:
 - Game score tracking
 - Improved UI and animations
 
----
-
-**Project 03 — AI Project Series**
-
-*Building intelligent agents through Python and Artificial Intelligence.*
