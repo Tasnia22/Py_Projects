@@ -146,3 +146,92 @@ This project helped me understand the internal working of classical AI search al
 **Project:** AI Search Algorithm Visualizer  
 **Language:** Python  
 **Visualization:** Pygame
+
+
+
+###
+<img width="607" height="739" alt="image" src="https://github.com/user-attachments/assets/f6fb9a63-519c-497b-aca0-0b29b20d46a8" />
+<img width="619" height="736" alt="image" src="https://github.com/user-attachments/assets/8c9f0667-98bb-4a49-b9b9-9b72b6e5b995" />
+
+
+# 🎮 Intelligent Tic-Tac-Toe AI
+
+An AI-powered Tic-Tac-Toe game built with **Python** and **Pygame**, where a human player competes against an intelligent AI agent using the **Minimax Algorithm**.
+
+## 🚀 Project Overview
+
+This project demonstrates how Artificial Intelligence can make decisions by exploring possible future game states.
+
+Unlike a random AI, the Minimax-based agent evaluates possible moves and selects the best available move to maximize its chance of winning.
+
+## ✨ Features
+
+- Human vs AI gameplay
+- Intelligent AI using Minimax Algorithm
+- AI blocks the player's winning moves
+- AI finds its own winning opportunities
+- Winner and draw detection
+- Restart game using `R`
+- Exit game using `ESC`
+- Interactive Pygame interface
+
+## 🧠 AI Algorithm: Minimax
+
+Minimax is a decision-making algorithm used in two-player, turn-based games.
+
+The algorithm explores possible future moves and chooses the optimal move.
+
+### Scoring System
+
+| Game Outcome | Score |
+|---|---:|
+| AI Wins | +1 |
+| Draw | 0 |
+| Human Wins | -1 |
+
+- **MAX Player:** AI (`O`) tries to maximize the score.
+- **MIN Player:** Human (`X`) tries to minimize the score.
+
+The AI evaluates possible game states recursively before selecting its move.
+
+## 🛠️ Technologies Used
+
+- Python
+- Pygame
+- Minimax Algorithm
+- Recursion
+- Game Tree Search
+
+## 🎮 Controls
+
+| Control | Action |
+|---|---|
+| Mouse Click | Place X |
+| R | Restart Game |
+| ESC | Exit Game |
+
+
+
+## 📚 What I Learned
+
+Through this project, I learned:
+
+- How Minimax works in a two-player game
+- MAX and MIN decision-making
+- Recursive game-tree exploration
+- Evaluating possible future states
+- Implementing an intelligent game agent
+- Integrating AI logic with a Pygame interface
+
+## 🔮 Future Improvements
+
+- Alpha-Beta Pruning
+- Difficulty levels
+- Game score tracking
+- Improved UI and animations
+
+---
+
+**Project 03 — AI Project Series**
+
+*Building intelligent agents through Python and Artificial Intelligence.*
