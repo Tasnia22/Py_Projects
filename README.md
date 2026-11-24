@@ -38,3 +38,111 @@ This is a basic educational simulation, not a real-world traffic control system.
 Looking forward to exploring more AI concepts and building the next project!
 
 #ArtificialIntelligence #Python #Pygame #IntelligentAgents #AIProjects #LearningByBuilding #ComputerScience
+
+
+
+
+
+
+
+
+<img width="554" height="353" alt="image" src="https://github.com/user-attachments/assets/07940b42-795b-4bab-bccc-376d0626082d" />
+
+
+###project2: Path_Finding ALgorithm implementation
+# AI Search Algorithm Visualizer
+
+An interactive AI Search Algorithm Visualizer built with **Python and Pygame**. This project demonstrates how different uninformed and informed search algorithms explore a graph, visit nodes, and find a path from the Start Node to the Goal Node.
+
+## Project Overview
+
+The visualizer uses a Bubble Tree structure to demonstrate search algorithms through animation.
+
+Each node changes color based on its current search state, making it easier to understand how different algorithms work.
+
+## Search Algorithms Implemented
+
+### Uninformed Search
+- Breadth-First Search (BFS)
+- Depth-First Search (DFS)
+- Uniform-Cost Search (UCS)
+- Depth-Limited Search (DLS)
+- Iterative Deepening DFS (IDDFS)
+- Bidirectional Search
+
+### Informed Search
+- Greedy Best-First Search
+- A* Search
+- Iterative Deepening A* (IDA*)
+- Beam Search
+- Recursive Best-First Search (RBFS)
+
+## Visualization Features
+
+- Animated Bubble Tree
+- Start and Goal Node representation
+- Visited Node visualization
+- Frontier visualization
+- Final path highlighting
+- Edge cost and heuristic values
+- Algorithm selection using keyboard shortcuts
+- Pause, resume, and restart controls
+
+## Color Representation
+
+| Color | Meaning |
+|---|---|
+| 🔴 Red | Current Node |
+| 🔵 Blue | Visited Node |
+| 🟠 Orange | Frontier Node |
+| 🟢 Green | Final Path |
+| Gray | Unvisited Node |
+
+## Controls
+
+| Key | Action |
+|---|---|
+| 1 | BFS |
+| 2 | DFS |
+| 3 | UCS |
+| 4 | DLS |
+| 5 | IDDFS |
+| 6 | Bidirectional Search |
+| 7 | Greedy Best-First |
+| 8 | A* Search |
+| 9 | IDA* |
+| 0 | Beam Search |
+| H | RBFS |
+| SPACE | Pause / Resume |
+| R | Restart |
+| ESC | Exit |
+
+## Technologies Used
+
+- Python
+- Pygame
+- Collections (Queue and Deque)
+- Heapq (Priority Queue)
+
+## What I Learned
+
+Through this project, I learned:
+
+- How graph-based search algorithms work.
+- The difference between uninformed and informed search.
+- How Queue, Stack, and Priority Queue affect search behavior.
+- How pathfinding algorithms use parent tracking.
+- How path cost and heuristic values guide search decisions.
+- How to visualize AI algorithms using Pygame.
+
+
+
+## Learning Outcome
+
+This project helped me understand the internal working of classical AI search algorithms through visual simulation rather than only studying their theoretical concepts.
+
+---
+
+**Project:** AI Search Algorithm Visualizer  
+**Language:** Python  
+**Visualization:** Pygame
