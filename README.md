@@ -152,6 +152,8 @@ This project helped me understand the internal working of classical AI search al
 ###
 <img width="607" height="739" alt="image" src="https://github.com/user-attachments/assets/f6fb9a63-519c-497b-aca0-0b29b20d46a8" />
 <img width="619" height="736" alt="image" src="https://github.com/user-attachments/assets/8c9f0667-98bb-4a49-b9b9-9b72b6e5b995" />
+<img width="298" height="376" alt="image" src="https://github.com/user-attachments/assets/b0f525af-76d8-449f-a679-bf4ec5eea37d" />
+
 
 
 # 🎮 Intelligent Tic-Tac-Toe AI
